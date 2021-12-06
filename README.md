@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a fullstack developer and soon to be graduate from FlatIron school. 
+
+
+
 <!--
 **BenDMaryland/BenDMaryland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
