@@ -1,7 +1,6 @@
-### Hello 
 
-Software Developer
-A React.js and Ruby on Rails developer, with a background in Deskside Support. Highly skilled in troubleshooting and problem solving. A very fast learner who is flexible and driven. 
+
+Hello I'm a Software Developer expiernced in React.js and Ruby on Rails developer, with a background in Deskside Support. I'm highly  skilled in troubleshooting and problem solving. A very fast learner who is flexible and driven. 
 
 <!--
 **BenDMaryland/BenDMaryland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
